@@ -1,6 +1,10 @@
-# Bank Marketing ML App
+# Bank-Marketing-ML-App
 
-This project predicts whether a customer will subscribe to a bank term deposit using machine learning models.
+Machine Learning model to predict bank term deposit subscription.
+
+## Dataset
+Dataset Source:
+https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 
 Models used:
 - Logistic Regression
